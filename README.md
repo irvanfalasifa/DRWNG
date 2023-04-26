@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  drawing.app
+  drawing.app-with-javascript
 </p>
 
 <p align='center'>
