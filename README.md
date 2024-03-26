@@ -3,8 +3,11 @@
 </h1>
 
 <p align='center'>
-  drawing.app-with-javascript
+  drawing.simulation-with-javascript
 </p>
+
+<img width="893" alt="draw" src="https://github.com/irvanfalasifa/DRWNG/assets/84895252/7845f07a-b184-46ec-b2c3-725518b146ec">
+
 
 <p align='center'>
  <a href='mailto:irvan.falasfia@gmail.com'> 
